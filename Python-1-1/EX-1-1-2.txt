@@ -1,0 +1,4 @@
+1.1.2
+  a, NameError: name 'stdio' is not defined
+  b, SyntaxError: invalid syntax
+  c, NameError: name 'stdio' is not defined
